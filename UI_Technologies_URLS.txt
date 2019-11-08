@@ -1,0 +1,62 @@
+HTML Coding Practice
+--------------------
+1) https://www.os-templates.com/free-basic-html5-templates
+2) https://www.freecodecamp.org/
+3) https://developer.mozilla.org/en-US/docs/Web/HTML
+
+CSS Coding Practice
+-------------------
+1) https://templated.co/
+2) https://html5up.net/
+3) https://developer.mozilla.org/en-US/docs/Web/CSS
+4) https://css-tricks.com/
+
+JavaScript Coding Practice
+-------------------------
+1) https://codingbat.com/java
+2) https://www.codechef.com/
+3) https://www.hackerearth.com/
+4) https://www.hackerrank.com/
+5) https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+JQuery coding Practice
+----------------------
+1) https://jquery.com/
+2) https://plugins.jquery.com/
+3) https://www.jqueryscript.net/
+
+Bootstrap Coding Practice
+--------------------------
+1) https://getbootstrap.com/
+2) https://mdbootstrap.com/
+3) https://startbootstrap.com/
+4) https://themewagon.com/theme_tag/free/
+
+Node JS
+--------
+1) https://nodejs.org/dist/latest-v10.x/docs/api/
+2) https://www.npmjs.com/
+
+Express JS
+----------
+1) https://expressjs.com/
+
+Mongo DB
+---------
+1) https://www.mongodb.com/
+2) https://docs.mongodb.com/manual/reference/mongo-shell/
+3) http://mongodb.github.io/node-mongodb-native/3.2/tutorials/main/
+
+React JS
+---------
+1) https://reactjs.org/
+
+
+
+
+
+
+
+
+
+
